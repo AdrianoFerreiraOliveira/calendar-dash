@@ -11,9 +11,6 @@ Este é um aplicativo web de calendário em que é possível armazenar e editar 
 - Visualização objetiva e organizada de tarefas
 
 ## 💻 Projeto
-Para ver as aulas do desenvolvimento do projeto completo em vídeo:
-
-<a href = "https://asimov.academy/courses/dashboards-interativos-com-python/licoes/calendar-app/"><img src="https://img.shields.io/badge/ASIMOV-Aulas%20do%20projeto-lightgrey" target="_blank"></a>
 
 Para ver o projeto em tempo real:
 
